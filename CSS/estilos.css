@@ -1,0 +1,17 @@
+p {color:black; text-align: left;font-size: 16px;}
+body {background-color:rgb(254, 255, 143)}
+header {font-family:'Covered By Your Grace'; text-align: center; background-color:rgb(158, 158, 115); font-size: 48px; width: auto;
+vertical-align: center;}
+h1 {margin-left: 20px; text-align: left; text-decoration: bold; font-style: italic; font-size: 24px;}
+img {width: 254px; height: 274px; vertical-align: center;}
+nav {background-color: rgb(158, 158, 115);text-align: center;}
+a {color: white; font-size: 16px;}
+main{margin-left: 20px;margin-top: 40px;}
+footer{margin-left: 20px;text-align: center;}
+#formulario{max-width: 200px;text-align: center; padding: auto;margin: 0 auto;}
+#apartado4{background-color: rgb(158, 158, 115);color:white}
+#alpie {width: 50px; height: 50px; float:center}
+h3{background-color:white; text-align: center;color: black;}
+#maletín, #birrete, #hospital, #premio{width: 30px; height:30px}
+#diagrama, #grilla, #gente{width: 40px; height:40px}
+#html, #filecss, #filejs, #bootstrap, #github{width: 30px; height:30px}
